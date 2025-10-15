@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vulndao_up/static/css/main.783c6fb2.css",
+    "main.js": "/vulndao_up/static/js/main.689155d7.js",
+    "static/js/453.275d66af.chunk.js": "/vulndao_up/static/js/453.275d66af.chunk.js",
+    "index.html": "/vulndao_up/index.html",
+    "main.783c6fb2.css.map": "/vulndao_up/static/css/main.783c6fb2.css.map",
+    "main.689155d7.js.map": "/vulndao_up/static/js/main.689155d7.js.map",
+    "453.275d66af.chunk.js.map": "/vulndao_up/static/js/453.275d66af.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.783c6fb2.css",
+    "static/js/main.689155d7.js"
+  ]
+}
